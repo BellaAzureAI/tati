@@ -3,6 +3,7 @@ theme: minima
 show_excerpts: false
 markdown: kramdown
 destination: _site
+github: false
 
 # Keep URL values empty by default; set these in your repository settings if needed.
 url: ""
