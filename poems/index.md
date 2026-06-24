@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Поэмы
+title: Мои поэмы
 permalink: /poems/
 ---
 
-A collection of poems.
-
-## Poems
 
 - [Двое у моря](two-by-the-sea)

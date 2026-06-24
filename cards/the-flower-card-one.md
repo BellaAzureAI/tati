@@ -4,15 +4,7 @@ title: Первый месяц
 permalink: /cards/the-flower-card-one/
 ---
 
-Verse 1
-
-Write lyrics in short blocks
-for easier reading.
-
-Bridge
-
-Use headings to separate sections.
-
-Outro
-
-End with your final lines.
+Твой образ - шёлк заката на ветру,  
+Ты тихий свет, скользящий по цветам,  
+Ты лепесток, что тянется к теплу  
+Ты вздох, что слышу по ночам. 
