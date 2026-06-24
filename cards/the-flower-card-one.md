@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Flower Card One
-permalink: /the-flower-card-one/
+title: Первый месяц
+permalink: /cards/the-flower-card-one/
 ---
 
 Verse 1

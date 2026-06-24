@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Two by the Sea
-permalink: /two-by-the-sea/
+title: Двое у моря
+permalink: /poems/two-by-the-sea/
 ---
 
 Verse 1

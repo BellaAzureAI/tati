@@ -1,15 +1,11 @@
 ---
 layout: home
-title: Lyrics
+title: Моя лирика
 ---
 
-Welcome to the lyric archive.
+## Немножко поэзии
 
-## Featured Songs
+- [Поэмы](poems/)
+- [Цветочные открытки](cards/)
 
-- [Two by the Sea](two-by-the-sea)
-- [The Flower Card One](the-flower-card-one)
 
-## Notes
-
-Use short lines and blank lines between sections to keep lyrics readable.
