@@ -7,8 +7,8 @@ Welcome to the lyric archive.
 
 ## Featured Songs
 
-- [Example Song One](song-one)
-- [Example Song Two](song-two)
+- [Two by the Sea](two-by-the-sea)
+- [The Flower Card One](the-flower-card-one)
 
 ## Notes
 

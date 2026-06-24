@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Example Song One
-permalink: /song-one/
+title: Two by the Sea
+permalink: /two-by-the-sea/
 ---
 
 Verse 1
