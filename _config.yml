@@ -1,0 +1,9 @@
+title: Lyric Project
+description: Minimal lyrics page powered by GitHub Pages and Minima.
+theme: minima
+show_excerpts: false
+markdown: kramdown
+
+# Keep URL values empty by default; set these in your repository settings if needed.
+url: ""
+baseurl: ""
