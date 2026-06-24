@@ -39,4 +39,9 @@ If you have Ruby and Bundler installed:
 
 1. Add a `Gemfile` with `gem "github-pages", group: :jekyll_plugins`.
 2. Run `bundle install`.
-3. Run `bundle exec jekyll serve`.
+3. Run `bundle exec jekyll serve --source . --destination ./_site`.
+
+### Build Folders
+
+- `_site` is generated HTML output from Jekyll.
+- `.sass-cache` is a temporary Sass cache folder and can be deleted safely.
