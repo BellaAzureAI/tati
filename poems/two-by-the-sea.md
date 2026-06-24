@@ -4,7 +4,7 @@ title: Двое у моря
 permalink: /poems/two-by-the-sea/
 ---
 
-![двое у моря](/assets/two-by-the-sea.png)
+![двое у моря](../assets/two-by-the-sea.png)
 
 ***
 
