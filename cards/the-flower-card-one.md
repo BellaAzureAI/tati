@@ -4,7 +4,8 @@ title: Первый месяц
 permalink: /cards/the-flower-card-one/
 ---
 
-![flower](/assets/flower.png)
+
+![Букет](card1.jpg)
 
 Твой образ - шёлк заката на ветру,  
 Ты тихий свет, скользящий по цветам,  
